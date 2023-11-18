@@ -1,0 +1,9 @@
+0001-Remove-gemspec-git-ls-files.patch
+0002-Don-t-set-PYGMENTS_PATH-and-remove-sys.path-appends.patch
+0005-Use-proper-python-shebang.patch
+0007-no-relative-path-for-require-in-tests.patch
+0010-Disable-the-test-expecting-a-timeout.patch
+0013-test-drop-test-that-depends-on-Python-internals.patch
+0014-no-relative-path-to-mentos-py.patch
+test-update-for-latest-pygments.patch
+0016-Adopt-to-pygments-2.24.patch
